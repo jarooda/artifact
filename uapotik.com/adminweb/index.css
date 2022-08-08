@@ -1,0 +1,60 @@
+body{
+	font-family: Tahoma;
+  text-align: center; 
+}        
+#bodiindex
+{
+	background-image: url(images/nanami.png);
+	background-repeat: no-repeat;
+} 
+
+#melayangsatu
+{	
+	border: none;
+	background: transparent;
+	float:right;
+	padding-right:70px;
+	padding-top: 515px;
+	padding-bottom: 0;
+	padding-left: 730px;
+}
+
+#melayangdua
+{
+	float:right;
+	padding-right:70px;
+	padding-top: 6px;
+	padding-bottom: 0;
+	padding-left: 730px;
+}
+
+#melayangtiga
+{
+	float:right;
+	padding-right:62px;
+	padding-top: 2px;
+	padding-left: 730px;
+}
+.searchInput{
+border: none;
+	background: transparent;
+	width: 115px;
+	height: 23px;
+	line-height: 20px;
+}
+.searchSubmit
+{
+	width: 120px;
+	height: 30px;
+	cursor: pointer;
+	border: none;
+	background: transparent url(images/buton.png) no-repeat 0 0;
+}
+input,textarea,select{
+	font-family: Tahoma; 
+	font-size: 8pt;
+}
+#footer{
+	font-size: 70%;
+	color: #FFFFFF;
+}
